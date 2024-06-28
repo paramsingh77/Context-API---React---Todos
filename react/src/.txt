@@ -1,0 +1,25 @@
+{/* /* Tailwind setup process */}
+         {/* 1. Go to https://tailwindcss.com/docs/guides/vite */}
+         {/* 2. npm install -D tailwindcss postcss autoprefixer */}
+            {/* npx tailwindcss init -p   */}
+         {/* 3. /** @type {import('tailwindcss').Config} */}
+               {/* /* export default { */}
+                {/* content: [ */}
+                   {/* "./index.html", */}
+                  {/* //  "./src/**/ }
+                  {/* // *.{js,ts,jsx,tsx}", */}
+                {/* //  ], */}
+                {/* //  theme: { */}
+                  {/* //  extend: { */}
+                      {/* // fontFamily:{ */}
+                        {/* // sans: ['Roboto','sans-serif'] */}
+                      {/* // }, */}
+                      {/* // gridTemplateColumn:[ */}
+                        {/* // '70/30' : '70% 28%', */}
+                      {/* // ], */}
+                  {/* // }, */}
+                {/* // }, */}
+                {/* // plugins: [], */}
+            {/* // } */}
+    {/* // */} 
+    <div className='text-50xl'>hey</div>
